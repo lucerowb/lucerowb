@@ -18,6 +18,9 @@
 
 <br/>  
 
+## Dev.to Card
+<a href="https://app.daily.dev/lucerowb"><img src="https://api.daily.dev/devcards/d314c658ed4a4901a8cda6499a1386de.png?r=wkt" width="400" alt="Srijan Bajracharya's Dev Card"/></a>
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
