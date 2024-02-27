@@ -19,7 +19,7 @@
 <br/>  
 
 ## Dev.to Card
-<a href="https://app.daily.dev/lucerowb"><img src="https://github.com/lucerowb/lucerowb/blob/main/devcard.svg" width="400" alt="Lucero's Dev Card"/></a>
+<a href="https://app.daily.dev/lucerowb"><img src="./devcard.png" width="356" alt="Lucero's Dev Card"/></a>
 
 
 ## My Skill Set  
