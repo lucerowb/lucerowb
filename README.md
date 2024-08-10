@@ -7,7 +7,7 @@
 - 🔭 I’m currently working with [Naamche](https://github.com/naamche)  
   
 
-- 🌱 I’m currently learning [T3 stack](https://create.t3.gg/)  
+- 🌱 I’m currently learning [BETH stack](https://blog.stackademic.com/beth-a-modern-stack-for-the-modern-web-1b3f3effb537)  
   
 
 - ❓ Ask me about anything related to MERN/PERN and related technologies  
@@ -19,7 +19,7 @@
 <br/>  
 
 ## Dev.to Card
-<a href="https://app.daily.dev/lucerowb"><img src="https://github.com/lucerowb/lucerowb/blob/main/devcard.svg" width="400" alt="Lucero's Dev Card"/></a>
+<a href="https://app.daily.dev/lucerowb"><img src="./devcard.png" width="356" alt="Lucero's Dev Card"/></a>
 
 
 ## My Skill Set  
